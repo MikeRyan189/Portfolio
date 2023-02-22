@@ -10,7 +10,7 @@ import { SocialIcon } from 'react-social-icons';
 
 function Projects() {
   return (
-    <div className='bg-black h-full flex flex-col items-center justify-evenly' >
+    <div className='bg-black h-full flex flex-col items-center justify-evenly font-mono' >
       
       <div className='flex flex-col items-center mt-10  rounded-xl'>
         <p className='mt-10 text-xl font-bold text-green-500' >EZ-Stack</p>
