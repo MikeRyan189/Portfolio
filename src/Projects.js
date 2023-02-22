@@ -17,8 +17,8 @@ function Projects() {
         <p className=' text-l font-bold text-white text-center'>PostgreSQL | Express | React | Node | CSS | Material UI | JWT | Cloudinary</p>
       <img src={EZstack} alt='headshot' className='mt-10 rounded-xl border-green-500 border-4 '></img>
       <div>
-      <a href='https://github.com/MikeRyan189/Freelance-App.git'><button className=' m-5 bg-green-500 hover:bg-white hover:text-green-500 h-10 w-[50px] md:w-[150px] rounded-xl font-bold'>Code</button></a>
-      <a href='https://youtu.be/v1D-3LLx3NA'><button className='m-5 bg-green-500 hover:bg-white hover:text-green-500 h-10 w-[50px] md:w-[150px] rounded-xl font-bold'>Demo</button></a>
+      <a href='https://github.com/MikeRyan189/Freelance-App.git'><button className=' m-5 bg-green-500 hover:bg-white hover:text-green-500 h-10 w-[100px] md:w-[150px] rounded-xl font-bold'>Code</button></a>
+      <a href='https://youtu.be/v1D-3LLx3NA'><button className='m-5 bg-green-500 hover:bg-white hover:text-green-500 h-10 w-[100px] md:w-[150px] rounded-xl font-bold'>Demo</button></a>
       </div>
       </div>
       <div className='flex flex-col items-center mt-10  rounded-xl'>
@@ -27,8 +27,8 @@ function Projects() {
 
       <img src={graceShopper} alt='headshot' className='mt-10 rounded-xl border-green-500 border-4 '></img>
       <div>
-      <a href='https://github.com/MikeRyan189/E-Commerce.git'><button className=' m-5 bg-green-500 hover:bg-white hover:text-green-500 h-10 w-[50px] md:w-[150px] rounded-xl font-bold'>Code</button></a>
-      <a href='https://youtu.be/0Kiejs5rfOo'><button className='m-5 bg-green-500 hover:bg-white hover:text-green-500 h-10 w-[50px] md:w-[150px] rounded-xl font-bold'>Demo</button></a>
+      <a href='https://github.com/MikeRyan189/E-Commerce.git'><button className=' m-5 bg-green-500 hover:bg-white hover:text-green-500 h-10 w-[100px] md:w-[150px] rounded-xl font-bold'>Code</button></a>
+      <a href='https://youtu.be/0Kiejs5rfOo'><button className='m-5 bg-green-500 hover:bg-white hover:text-green-500 h-10 w-[100px] md:w-[150px] rounded-xl font-bold'>Demo</button></a>
       </div>
       </div>
       <div className='flex flex-col items-center mt-10  rounded-xl'>
@@ -36,8 +36,8 @@ function Projects() {
       <p className=' text-l font-bold text-white text-center'>React | CSS | OpenWeather</p>
       <img src={weather} alt='headshot' className='mt-10 rounded-xl border-green-500 border-4 '></img>
       <div className='mb-10'>
-      <a href='https://github.com/MikeRyan189/weatherapp.git'><button className=' m-5 bg-green-500 hover:bg-white hover:text-green-500 h-10 w-[50px] md:w-[150px] rounded-xl font-bold'>Code</button></a>
-      <a href='https://youtu.be/7KGS2kNVlaM'><button className='m-5 bg-green-500 hover:bg-white hover:text-green-500 h-10 w-[50px] md:w-[150px] rounded-xl font-bold'>Demo</button></a>
+      <a href='https://github.com/MikeRyan189/weatherapp.git'><button className=' m-5 bg-green-500 hover:bg-white hover:text-green-500 h-10 w-[100px] md:w-[150px] rounded-xl font-bold'>Code</button></a>
+      <a href='https://youtu.be/7KGS2kNVlaM'><button className='m-5 bg-green-500 hover:bg-white hover:text-green-500 h-10 w-[100px] md:w-[150px] rounded-xl font-bold'>Demo</button></a>
       </div>
       </div>
     </div>
