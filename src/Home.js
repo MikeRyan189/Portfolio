@@ -10,11 +10,11 @@ import { SocialIcon } from 'react-social-icons';
 
 function Home() {
   return (
-    <div className='bg-black h-full md:h-screen flex flex-col items-center justify-center font-mono ' >
-      <div className='flex flex-col items-center w-[400px]   mt-10  rounded-xl md:flex md:flex-row md:w-[775px]'>
-     <img src={headshot} alt='headshot' className='h-[250px]  rounded-xl'></img>
+    <div className='bg-gray-700 h-full md:h-screen flex flex-col items-center justify-center font-mono ' >
+      <div className='flex flex-col items-center w-[400px]  m-10  md:flex md:flex-row md:w-[750px] border-y-green-500 border-y-4'>
+     <img src={headshot} alt='headshot' className='h-[250px] rounded-xl m-5'></img>
      <div>
-     <p className='m-10 text-xl font-bold text-white text-center md:text-left' >Hello, my name is<span className='text-3xl font-bold text-green-500'> Michael Ryan.</span> I am a <span className='text-xl font-bold text-green-500'> Full Stack Software Developer</span> with a passion for using technology to solve problems and create innovative and user-friendly web applications. I have primarily worked in the PERN stack but I am always looking to expand my knowledge of other technologies and stacks.</p>
+     <p className='m-5 text-xl font-bold text-white text-center md:text-left' >Hello, my name is<span className='text-3xl font-bold text-green-500'> Michael Ryan.</span> I am a <span className='text-xl font-bold text-green-500'> Full Stack Software Developer</span> with a passion for using technology to solve problems and create innovative and user-friendly web applications. I have primarily worked in the PERN stack but I am always looking to expand my knowledge of other technologies and stacks.</p>
      </div>
 
       </div>
