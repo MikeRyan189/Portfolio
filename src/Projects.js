@@ -32,7 +32,7 @@ function Projects() {
       </div>
       </div>
       <div className='flex flex-col items-center rounded-xl'>
-      <p className='mt-10 text-xl font-bold text-green-500' >Mint Chat</p>
+      <p className='mt-10 text-xl font-bold text-green-500' >Chat.ai</p> 
       <p className=' text-l font-bold text-white text-center'>React | Tailwind CSS | OpenAI</p>
       <img src={mintchat} alt='headshot' className='mt-10 rounded-xl border-green-500 border-4 w-96'></img>
       <div className='mb-10'>
