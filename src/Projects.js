@@ -37,7 +37,7 @@ function Projects() {
       <img src={mintchat} alt='headshot' className='mt-10 rounded-xl border-green-500 border-4 w-96'></img>
       <div className='mb-10'>
       <a href='https://github.com/MikeRyan189/Mint-Chat.git'><button className=' m-5 bg-green-500 hover:bg-white hover:text-green-500 h-10 w-[100px] md:w-[150px] rounded-xl font-bold'>Code</button></a>
-      <a href='https://mint-chat.onrender.com'><button className='m-5 bg-green-500 hover:bg-white hover:text-green-500 h-10 w-[100px] md:w-[150px] rounded-xl font-bold'>Demo</button></a>
+      <a href='https://chat-ai-yi4b.onrender.com'><button className='m-5 bg-green-500 hover:bg-white hover:text-green-500 h-10 w-[100px] md:w-[150px] rounded-xl font-bold'>Demo</button></a>
       </div>
       </div>
       <div className='flex flex-col items-center rounded-xl w-300px'>
