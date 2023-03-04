@@ -46,7 +46,7 @@ function Projects() {
       <img src={weather} alt='headshot' className='mt-10 rounded-xl border-green-500 border-4 w-96'></img>
       <div className='mb-10'>
       <a href='https://github.com/MikeRyan189/weatherapp.git'><button className=' m-5 bg-green-500 hover:bg-white hover:text-green-500 h-10 w-[100px] md:w-[150px] rounded-xl font-bold'>Code</button></a>
-      <a href='https://youtu.be/7KGS2kNVlaM'><button className='m-5 bg-green-500 hover:bg-white hover:text-green-500 h-10 w-[100px] md:w-[150px] rounded-xl font-bold'>Demo</button></a>
+      <a href='https://realtime-weather.onrender.com'><button className='m-5 bg-green-500 hover:bg-white hover:text-green-500 h-10 w-[100px] md:w-[150px] rounded-xl font-bold'>Demo</button></a>
       </div>
       </div>
     </div>
